@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/4fea2e55b0414d8faf3e39d6a3342eb8/artifacts
+end_time: 1685342553981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4fea2e55b0414d8faf3e39d6a3342eb8
+run_uuid: 4fea2e55b0414d8faf3e39d6a3342eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685342425998
+status: 3
+tags: []
+user_id: nishanth.pathi
